@@ -24,7 +24,7 @@
 ## 📌 Highlight Projects
 - [🛡️ Security Report Automation Platform](https://ts3.onsky.com.tw/)
 - [📧 Email Testing Platform](https://mat.onsky.com.tw/)
-- [📄 Proposal Generator (beta)](https://www.onsky.com.tw)
+- [📄 Proposal Generator (beta)](http://bid.onsky.com.tw)
 
 ---
 
@@ -34,5 +34,5 @@ If my tools or projects have helped you, feel free to [Buy Me a Coffee](https://
 ---
 
 ## 📫 Contact
-📧 on@onsky.com.tw  
+📧 damon@onsky.com.tw  
 🌐 [onsky.com.tw](https://www.onsky.com.tw)
